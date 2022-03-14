@@ -1,5 +1,5 @@
 ---
-layout:     keynote
+layout:     post
 title:      This is title
 subtitle:   This is subtitle
 date:       2022-03-14
