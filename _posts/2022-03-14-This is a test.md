@@ -1,6 +1,6 @@
 ---
-layout:     post
-title:      This is test
+layout:     keynote
+title:      This is title
 subtitle:   This is subtitle
 date:       2022-03-14
 author:     Siwee
