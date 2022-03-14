@@ -2,10 +2,10 @@
 title: Siwee's blog
 SEOTitle: Siwee的博客 | Siwee's blog
 header-img: img/post-bg-coffee.jpeg
-email: blog@lswlsw.tk
+email: liu@siwei.tk
 description: "个人博客"
 keyword: "Siwee的博客"
-url: "https://lswlsw.tk"          # your host, for absolute URL
+url: "https://liu.siwei.tk"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lswliusiwei/lswliusiwei.github.io.git" # you code repository
 
