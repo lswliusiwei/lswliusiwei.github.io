@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Earthquake
-subtitle:   emmm
+subtitle:   
 date:       2022-03-16
 author:     Siwee
 header-img: img/post-bg-swift2.jpg
