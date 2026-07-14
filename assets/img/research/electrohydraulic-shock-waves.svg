@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Electrohydraulic Shock Waves placeholder</title>
+  <desc id="desc">Abstract placeholder graphic with concentric pressure-wave fronts.</desc>
+  <rect width="1200" height="675" fill="#f9eceb" />
+  <circle cx="600" cy="300" r="55" fill="#bd3b32" />
+  <circle cx="600" cy="300" r="125" fill="none" stroke="#d16b63" stroke-width="16" />
+  <circle cx="600" cy="300" r="210" fill="none" stroke="#df9690" stroke-width="14" />
+  <circle cx="600" cy="300" r="295" fill="none" stroke="#edc2be" stroke-width="12" />
+  <text x="600" y="625" fill="#6a2d28" font-family="Arial, sans-serif" font-size="44" text-anchor="middle">Research project placeholder</text>
+</svg>

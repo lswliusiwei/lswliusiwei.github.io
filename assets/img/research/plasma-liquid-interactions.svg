@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Plasma–Liquid Interactions placeholder</title>
+  <desc id="desc">Abstract placeholder graphic with a discharge above a liquid interface.</desc>
+  <rect width="1200" height="675" fill="#f1ecf8" />
+  <path d="M0 390h1200v285H0z" fill="#d7cbea" />
+  <path d="M600 90l-70 145 65-18-45 150 135-190-74 22 55-109z" fill="#6b3fa0" />
+  <path d="M250 390c85-35 155-35 240 0s155 35 240 0 155-35 240 0" fill="none" stroke="#8a69b5" stroke-width="14" />
+  <text x="600" y="590" fill="#3d2857" font-family="Arial, sans-serif" font-size="44" text-anchor="middle">Research project placeholder</text>
+</svg>
