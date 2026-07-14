@@ -4,9 +4,9 @@ permalink: /cv/
 title: CV
 nav: false
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_pdf: # add a CV PDF path when the document is ready
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Curriculum vitae content will be added later.
 toc:
   sidebar: left
 ---
