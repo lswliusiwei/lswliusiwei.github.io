@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Nanodroplet Generation and Interfacial Charging placeholder</title>
+  <desc id="desc">Abstract placeholder graphic with droplets moving toward a charged surface.</desc>
+  <rect width="1200" height="675" fill="#fbf4df" />
+  <path d="M940 95v430" stroke="#b78116" stroke-width="20" />
+  <path d="M170 160l45 75-45 75-45-75zM340 260l34 57-34 57-34-57zM520 125l40 67-40 67-40-67zM660 315l32 53-32 53-32-53z" fill="#d6a642" />
+  <text x="850" y="185" fill="#9b6d0d" font-family="Arial, sans-serif" font-size="54">+</text>
+  <text x="850" y="305" fill="#9b6d0d" font-family="Arial, sans-serif" font-size="54">−</text>
+  <text x="850" y="425" fill="#9b6d0d" font-family="Arial, sans-serif" font-size="54">+</text>
+  <text x="600" y="590" fill="#654d1c" font-family="Arial, sans-serif" font-size="44" text-anchor="middle">Research project placeholder</text>
+</svg>
