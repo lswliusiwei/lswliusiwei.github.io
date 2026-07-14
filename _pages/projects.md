@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Research themes in multiphase flow, pulsed discharges, and interfacial transport.
 nav: true

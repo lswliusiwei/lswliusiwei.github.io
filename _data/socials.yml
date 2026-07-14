@@ -1,5 +1,7 @@
-# Add verified personal social links here when they are ready.
-# email:
-# github_username:
-# scholar_userid:
-{}
+# Verified academic profiles, displayed in this order on the About page.
+custom_social:
+  logo: fa-solid fa-user-graduate
+  title: researchmap
+  url: https://researchmap.jp/liusiwei
+orcid_id: 0000-0001-7060-8167
+scholar_userid: hMhOf1QAAAAJ

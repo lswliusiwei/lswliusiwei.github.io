@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor, Institute of Fluid Science, Tohoku University
 
@@ -13,8 +13,8 @@ profile:
     <p>Tohoku University</p>
     <p>Sendai, Japan</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # temporarily hidden until personal links are finalized
+selected_papers: false # rendered explicitly below to control heading capitalization
+social: true # includes verified academic profile links at the bottom of the page
 
 announcements:
   enabled: false # temporarily hidden until personal news is added
@@ -37,3 +37,7 @@ I am an Assistant Professor at the Institute of Fluid Science, Tohoku University
 - Electrohydraulic shock waves
 - Non-equilibrium transport
 - Phase-change diagnostics
+
+## Selected publications
+
+{% include selected_papers.liquid %}

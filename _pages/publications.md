@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Publications by Siwei Liu, listed in reverse chronological order.
+title: Publications
+description: Publications by Siwei LIU, listed in reverse chronological order.
 nav: true
 nav_order: 2
 ---
