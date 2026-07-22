@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-22'
 papers:
   hMhOf1QAAAAJ:-f6ydRqryjwC:
-    citations: 52
+    citations: 53
     title: Application of deep learning for predicting the treatment performance of real municipal wastewater based on one-year operation of two anaerobic membrane bioreactors
     year: '2022'
   hMhOf1QAAAAJ:0EnyYjriUFMC:
@@ -86,7 +86,7 @@ papers:
     title: A method for reducing errors of magnetization modeling of nanocrystalline alloy cores based on modified Jiles-Atherton model
     year: '2019'
   hMhOf1QAAAAJ:MXK_kJrjxJIC:
-    citations: 11
+    citations: 12
     title: Optimization design of a repetitive nanosecond pulse generator based on saturable pulse transformer and magnetic switch
     year: '2015'
   hMhOf1QAAAAJ:NMxIlDl6LWMC:
@@ -210,7 +210,7 @@ papers:
     title: Application of Jiles-Atherton model in description of temperature characteristics of magnetic core
     year: '2018'
   hMhOf1QAAAAJ:hC7cP41nSMkC:
-    citations: 42
+    citations: 43
     title: Prediction of cerebral aneurysm hemodynamics with porous-medium models of flow-diverting stents via deep learning
     year: '2021'
   hMhOf1QAAAAJ:hFOr9nPyWt4C:
